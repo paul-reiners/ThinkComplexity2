@@ -1,3 +1,6 @@
+notebooks/.ipynb_checkpoints/
+notebooks/figs/
+
 *.py[cod]
 
 code/*.pdf
